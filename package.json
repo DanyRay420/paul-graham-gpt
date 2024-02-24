@@ -14,7 +14,7 @@
     "@next/font": "^13.2.3",
     "@tabler/icons-react": "^2.4.0",
     "@types/node": "18.14.0",
-    "@types/react": "18.0.28",
+    "@types/react": "18.2.52",
     "@types/react-dom": "18.0.11",
     "endent": "^2.1.0",
     "eslint": "8.34.0",
